@@ -56,11 +56,6 @@ Queries are categorized into **easy**, **medium**, and **advanced** levels to he
   
 #### Advanced Queries
 - Nested subqueries, window functions, CTEs, and performance optimization.
-
-### 5. Query Optimization
-In advanced stages, the focus shifts to improving query performance. Some optimization strategies include:
-- **Indexing**: Adding indexes on frequently queried columns.
-- **Query Execution Plan**: Using `EXPLAIN ANALYZE` to review and refine query performance.
   
 ---
 
