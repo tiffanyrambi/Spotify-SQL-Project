@@ -45,7 +45,7 @@ The dataset contains attributes such as:
 - `Album_type`: The type of album (e.g., single or album).
 - Various metrics such as `danceability`, `energy`, `loudness`, `tempo`, and more.
 
-### 4. Querying the Data
+### 2. Querying the Data
 Queries are categorized into **easy**, **medium**, and **advanced** levels to help progressively develop SQL proficiency.
 
 #### Easy Queries
