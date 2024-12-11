@@ -208,30 +208,11 @@ SELECT
 FROM energy_diff
 ORDER BY 2 DESC
 ```
-   
-4. Find tracks where the energy-to-liveness ratio is greater than 1.2.
-
-```sql
-
-```
-
-5. Calculate the cumulative sum of likes for tracks ordered by the number of views, using window functions.
-
-```sql
-
-```
 
 ## Technology Stack
 - **Database**: Microsoft SQL Server
 - **SQL Queries**: DDL, DML, Aggregations, Joins, Subqueries, Window Functions
 - **Tools**: SQL Server Management Studio 20
-
----
-
-## Next Steps
-- **Visualize the Data**: Use a data visualization tool like **Tableau** or **Power BI** to create dashboards based on the query results.
-- **Expand Dataset**: Add more rows to the dataset for broader analysis and scalability testing.
-- **Advanced Querying**: Dive deeper into query optimization and explore the performance of SQL queries on larger datasets.
 
 ---
 
